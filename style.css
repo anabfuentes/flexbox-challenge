@@ -45,7 +45,6 @@ h1 {
 
     /* can't use yet */
     /* gap: 100px; */
-    margin: 50px 0;
 }
 
 .col {
@@ -58,18 +57,24 @@ h1 {
     margin-left: 20px;
 }
 
-.row h2 {
+.three-col {
+    padding: 3em 0;
+}
+
+.three-col h2 {
     color: #87629A;
 }
 
-.row p {
+.three-col p {
     color: #3A3A3A;
 }
 
-.main-content {
-    display: flex;
-    color: #FFF;
+.two-col {
+    color: #ffffff;
+    background-color: #136c72;
+    padding: 3em 0;
 }
+
 
 .hero {
     padding: 100px 0;
