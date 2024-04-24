@@ -29,6 +29,10 @@ body {
     font-size: 1.3rem;
 }
 
+img {
+    max-width: 100%;
+}
+
 h1 {
     font-size: 3rem;
 }
@@ -89,6 +93,7 @@ h1 {
 .hero p {
     margin-bottom: 3em;
 }
+
 
 .btn {
     display: inline-block;
